@@ -10,7 +10,7 @@ perceval-opnfv==0.1.16
 kidash==0.4.15
 perceval-mozilla==0.2.9
 perceval-finos==0.1.6
-grimoireelk==0.62.0.dev1
+grimoire-elk==0.62.0.dev1
 sirmordred==0.2.24.dev1
 manuscripts==0.2.20
 sortinghat==0.7.7
