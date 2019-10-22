@@ -7,7 +7,7 @@
           "version_file": "perceval/_version.py"}],
     "grimoireelk": [{"name": "grimoireelk",  "dir": "",
             "repo_url": "/Users/jamie/Projects/community-metrics/repos/grimoireelk",
-            "version_file": "grimoireelk/_version.py"}],
+            "version_file": "grimoire_elk/_version.py"}],
     "sigils": [{"name": "sigils",  "dir": "",
             "repo_url": "/Users/jamie/Projects/community-metrics/repos/sigils",
             "version_file": "sigils/_version.py"}],
