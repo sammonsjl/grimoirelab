@@ -1,0 +1,17 @@
+{
+    "grimoirelab": [{"name": "grimoirelab",  "dir": "",
+            "repo_url": "/Users/jamie/Projects/community-metrics/repos/grimoirelab",
+            "version_file": "grimoirelab/_version.py"}],
+    "perceval": [{"name": "perceval",  "dir": "",
+          "repo_url": "/Users/jamie/Projects/community-metrics/repos/perceval",
+          "version_file": "perceval/_version.py"}],
+    "grimoireelk": [{"name": "grimoireelk",  "dir": "",
+            "repo_url": "/Users/jamie/Projects/community-metrics/repos/grimoireelk",
+            "version_file": "grimoireelk/_version.py"}],
+    "sigils": [{"name": "sigils",  "dir": "",
+            "repo_url": "/Users/jamie/Projects/community-metrics/repos/sigils",
+            "version_file": "sigils/_version.py"}],
+    "sirmordred": [{"name": "sirmordred",  "dir": "",
+            "repo_url": "/Users/jamie/Projects/community-metrics/repos/sirmordred",
+            "version_file": "sirmordred/_version.py"}]
+}
