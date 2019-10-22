@@ -1,5 +1,17 @@
 {
     "grimoirelab": [{"name": "grimoirelab",  "dir": "",
             "repo_url": "/grimoirelab",
-            "version_file": "grimoirelab/_version.py"}]
+            "version_file": "grimoirelab/_version.py"}],
+    "perceval": [{"name": "perceval",  "dir": "",
+          "repo_url": "/perceval",
+          "version_file": "perceval/_version.py"}],
+    "grimoireelk": [{"name": "grimoireelk",  "dir": "",
+            "repo_url": "/grimoireelk",
+            "version_file": "grimoire_elk/_version.py"}],
+    "sigils": [{"name": "sigils",  "dir": "",
+            "repo_url": "/sigils",
+            "version_file": "sigils/_version.py"}],
+    "sirmordred": [{"name": "sirmordred",  "dir": "",
+            "repo_url": "/sirmordred",
+            "version_file": "sirmordred/_version.py"}]
 }
