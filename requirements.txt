@@ -3,14 +3,14 @@ perceval-mozilla==0.2.9
 grimoirelab-toolkit==0.1.10
 sortinghat==0.7.7
 perceval-opnfv==0.1.16
-grimoire-elk==0.62.0.dev1
+grimoire-elk==0.63.0.dev1
 grimoirelab==0.2.31.dev1
 cereslib==0.1.8
 graal==0.2.3
-sigils==0.0.43.dev1
+sigils==0.0.44.dev1
 perceval-puppet==0.1.15
 perceval==0.12.24.dev1
 manuscripts==0.2.20
 kingarthur==0.1.17
 kidash==0.4.15
-sirmordred==0.2.24.dev1
+sirmordred==0.2.25.dev1
