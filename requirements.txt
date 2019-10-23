@@ -4,7 +4,7 @@ grimoirelab-toolkit==0.1.10
 sortinghat==0.7.7
 perceval-opnfv==0.1.16
 grimoire-elk==0.63.0.dev1
-grimoirelab==0.2.31.dev1
+grimoirelab==0.2.32.dev1
 cereslib==0.1.8
 graal==0.2.3
 sigils==0.0.44.dev1
