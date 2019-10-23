@@ -45,6 +45,19 @@ until $(curl --output /dev/null --silent --head --fail http://127.0.0.1:5601); d
 done
 echo "Kibiter started"
 
+# This could be an ENV var probably (it is defined in sirmordred conf)
+REDIS="redis"
+
+# arthur on
+arthurd -g -d redis://$REDIS/8 --log-path $DEPLOY_USER_DIR/logs/arthurd --no-cache
+# Give time to arthur to create the raw index
+echo "Waiting for arthur startup completion ..."
+sleep 5
+echo "Starting two workers: collect and update tasks"
+# Two workers
+(arthurw -g -d redis://$REDIS/8 > $DEPLOY_USER_DIR/logs/worker-collect.log 2>&1) &
+(arthurw -g -d redis://$REDIS/8 update > $DEPLOY_USER_DIR/logs/worker-update.log 2>&1) &
+
 if [[ $RUN_MORDRED ]] && [[ $RUN_MORDRED = "NO" ]]; then
   echo
   echo "All services up, not running SirMordred because RUN_MORDRED = NO"
