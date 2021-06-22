@@ -1,0 +1,14 @@
+{
+    "grimoirelab": [{"name": "grimoirelab",  "dir": "",
+            "repo_url": "/Users/jamie/Projects/community-dashboard/grimoirelab/grimoirelab",
+            "version_file": "grimoirelab/_version.py"}],
+    "perceval": [{"name": "perceval",  "dir": "",
+          "repo_url": "/Users/jamie/Projects/community-dashboard/grimoirelab/perceval",
+          "version_file": "perceval/_version.py"}],
+    "grimoireelk": [{"name": "grimoire-elk",  "dir": "",
+            "repo_url": "/Users/jamie/Projects/community-dashboard/grimoirelab/grimoireelk",
+            "version_file": "grimoire_elk/_version.py"}],
+    "sigils": [{"name": "grimoirelab-panels",  "dir": "",
+            "repo_url": "/Users/jamie/Projects/community-dashboard/grimoirelab/sigils",
+            "version_file": "panels/_version.py"}]
+}
