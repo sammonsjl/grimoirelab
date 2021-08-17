@@ -19,7 +19,7 @@
     {
       "name": "grimoire-elk",
       "dir": "",
-      "repo_url": "/Users/jamie/Projects/community-dashboard/workspace/sources/grimoirelab-grimoireelk",
+      "repo_url": "/Users/jamie/Projects/community-dashboard/workspace/sources/grimoirelab-elk",
       "version_file": "grimoirelab-grimoireelk/_version.py"
     }
   ],
