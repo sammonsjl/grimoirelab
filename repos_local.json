@@ -30,5 +30,13 @@
       "repo_url": "/Users/jamie/Projects/community-dashboard/workspace/sources/grimoirelab-sigils",
       "version_file": "grimoirelab-sigils/_version.py"
     }
+  ],
+  "sirmordred": [
+    {
+      "name": "sirmordred",
+      "dir": "",
+      "repo_url": "/Users/jamie/Projects/community-dashboard/workspace/sources/grimoirelab-sirmordred",
+      "version_file": "grimoirelab-sirmordred/_version.py"
+    }
   ]
 }
